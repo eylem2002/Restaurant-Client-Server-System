@@ -1,5 +1,5 @@
 # restaurant-Client-Server-System
-his project is a client-server application for  Restaurant that provides services for two clients, each making different food orders. The server communicates with clients over port number 1515. Client1 requests burger orders, while Client2 requests pizza orders.
+This project is a client-server application for  Restaurant that provides services for two clients, each making different food orders. The server communicates with clients over port number 1515. Client1 requests burger orders, while Client2 requests pizza orders.
 
 ### Client1 (Burger Order)
 1. Client1 sends a message to the server: "Hello server! Please send me the burger order."
